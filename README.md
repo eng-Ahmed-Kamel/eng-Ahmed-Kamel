@@ -1,25 +1,21 @@
-## Hi there 👋
 <div align="center">
 <!-- Animated typing header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ahmed+Kamel+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+%26+Infrastructure+Enthusiast+%E2%98%81%EF%B8%8F;ITI+Trainee+%7C+DevOps+Track+%F0%9F%8E%93;Based+in+Cairo%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
 <br/>
 <h3>A passionate DevOps Engineer from Cairo, Egypt</h3>
-<h4>🎓 ITI Trainee &nbsp;|&nbsp; DevOps Track &nbsp;|&nbsp; System_administration Department</h4>
+<h4>🎓 ITI Trainee &nbsp;|&nbsp; DevOps Track &nbsp;|&nbsp; system_administration Department</h4>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 <br/>
-🧑‍💻 About Me
+<h5>🧑‍💻 About Me</h5>
 🌱 Currently training at ITI (Information Technology Institute) — Open Source Dept., DevOps Track
 🎓 Bachelor's in Communication & Electronics Engineering, Alexandria University (CGPA: 3.28)
 🏆 Red Hat Certified System Administrator (RHCSA) | AWS Certified Cloud Practitioner | Huawei Certified Cloud Developer Associate
 💬 Ask me about Linux, Docker, Kubernetes, Terraform, Ansible, Jenkins, AWS, Bash Scripting
 📫 Reach me at Ahmed.ozi2001@gmail.com
 ⚡ Passionate about DevOps methodologies, system administration, and cloud-native technologies
-
-<h5>
-🤝 Connect With Me
-</h5>
+<h6>🤝 Connect With Me</h6>
 <p align="left">
   <a href="https://linkedin.com/in/eng--ahmed-kamel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -83,36 +79,95 @@
   <img src="https://skillicons.dev/icons?i=cloudwatch" height="40" alt="CloudWatch"/>
 </p>
 📂 Featured Projects
-🔹 Highly Available 3-Tier AWS Architecture | Terraform & Ansible
-Technologies: AWS (VPC, EC2, ASG, ALB, Route53, NAT Gateway), Terraform, Ansible, Docker, Linux, CloudWatch, Nginx
-Designed and deployed a scalable 3-tier architecture across multiple Availability Zones on AWS
-Implemented VPC with public/private subnets, NAT Gateways, and Bastion (Jump) servers for secure infrastructure access
-Configured Auto Scaling Groups and External/Internal Load Balancers for high availability and traffic distribution
-Automated infrastructure provisioning with Terraform and server configuration with Ansible
-Integrated Docker Hub for container images and implemented monitoring with CloudWatch and Secrets Manager
-🔹 Bash User & Group Manager
-Technologies: Bash, whiptail TUI, Linux Administration
-Terminal-based Linux administration tool built with Bash and whiptail TUI to automate system user and group management
-Implemented features to add, modify, delete, lock/unlock users, and manage Linux groups
-Designed an interactive terminal interface (TUI) for efficient system administration
-🔹 VMware vSphere Infrastructure Implementation
-Technologies: VMware ESXi 6.7, vCenter Server, NFS on Ubuntu
-Deployed a 3-node ESXi cluster managed by vCenter with NFS shared storage for VM persistence
-Implemented enterprise features including vSphere HA, DRS (fully automated), and fault tolerance to ensure zero-downtime failover
-🔹 Windows Server Active Directory Infrastructure
-Technologies: Windows Server, AD DS, GPO, IIS/FTP, DNS/DHCP, WDS, RODC, RDP
-Deployed a multi-domain Active Directory forest (ITI.local + 2 child domains) with 6 domain controllers
-Implemented Group Policies (GPOs) for login restrictions, roaming profiles, and automated software deployment
-Configured IIS web hosting, FTP with per-user isolation, DHCP, DNS zones, and OS deployment using WDS/PXE boot for 50+ machines
-🔹 Software Company Network Architecture
-Technologies: Cisco Packet Tracer, OSPF, HSRP, VLANs, NAT/PAT, AAA/TACACS+, EtherChannel
-Designed a multi-department enterprise network using VLAN segmentation and Router-on-a-Stick architecture
-Implemented OSPF dynamic routing and HSRP gateway redundancy
-Configured centralized AAA authentication (TACACS+) with SSH access control
-Deployed NAT/PAT and FTP backup server to enable secure internet access and data protection
-<h6>
-GitHub Stats
-</h6>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Highly Available 3-Tier AWS Architecture</h3>
+      <p>
+        <a href="https://github.com/eng-Ahmed-Kamel/AWS-3-Tier-Architecture-wtih-DevOps-Automation-main">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live%20Demo-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Live Demo"/>
+        </a>
+      </p>
+      <p><strong>Infrastructure:</strong> AWS VPC, EC2, ASG, ALB, Route53, NAT Gateway</p>
+      <p><strong>Tools:</strong> Terraform, Ansible, Docker, Nginx, CloudWatch</p>
+      <ul>
+        <li>Scalable 3-tier architecture across multiple AZs</li>
+        <li>VPC with public/private subnets & Bastion servers</li>
+        <li>Auto Scaling Groups & Load Balancers for HA</li>
+        <li>Infrastructure as Code with Terraform & Ansible</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐧 Bash User & Group Manager</h3>
+      <p>
+        <a href="https://github.com/eng-Ahmed-Kamel/bash-user-group-manager">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </p>
+      <p><strong>Technologies:</strong> Bash, whiptail TUI, Linux Administration</p>
+      <ul>
+        <li>Interactive TUI for user/group management</li>
+        <li>Add, modify, delete, lock/unlock users</li>
+        <li>Linux group administration automation</li>
+        <li>Built with Bash & whiptail for efficiency</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ VMware vSphere Infrastructure</h3>
+      <p>
+        <a href="https://drive.google.com/file/d/1gjc-3Vrhz-2afNIyFN0IPiyed05uQXuA/view">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </p>
+      <p><strong>Technologies:</strong> VMware ESXi 6.7, vCenter Server, NFS</p>
+      <ul>
+        <li>3-node ESXi cluster with vCenter management</li>
+        <li>NFS shared storage for VM persistence</li>
+        <li>vSphere HA, DRS & fault tolerance</li>
+        <li>Zero-downtime failover implementation</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪟 Windows Server AD Infrastructure</h3>
+      <p>
+        <a href="https://drive.google.com/file/d/1Dxu4Ei6IkqW3M9gRkzfIRRX0F1JIOn1U/view">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </p>
+      <p><strong>Technologies:</strong> Windows Server, AD DS, GPO, IIS, DNS, DHCP</p>
+      <ul>
+        <li>Multi-domain forest (ITI.local + 2 child domains)</li>
+        <li>6 domain controllers with GPO policies</li>
+        <li>IIS, FTP, DHCP, DNS zones configured</li>
+        <li>WDS/PXE boot deployment for 50+ machines</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
+      <h3>🌐 Software Company Network Architecture</h3>
+      <p>
+        href="https://drive.google.com/drive/folders/1Wjn1FofZ4sfleTvZqdh1HfWwkxuGeTpN">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </p>
+      <p><strong>Technologies:</strong> Cisco Packet Tracer, OSPF, HSRP, VLANs, NAT/PAT, TACACS+</p>
+      <ul>
+        <li>Multi-department enterprise network with VLAN segmentation</li>
+        <li>OSPF dynamic routing & HSRP gateway redundancy</li>
+        <li>Centralized AAA authentication (TACACS+) with SSH</li>
+        <li>NAT/PAT & FTP backup server for secure access</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<h7>
+📊 GitHub Stats</h7>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eng-Ahmed-Kamel&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
