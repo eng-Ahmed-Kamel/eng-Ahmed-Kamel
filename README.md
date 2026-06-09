@@ -110,12 +110,9 @@ Designed a multi-department enterprise network using VLAN segmentation and Route
 Implemented OSPF dynamic routing and HSRP gateway redundancy
 Configured centralized AAA authentication (TACACS+) with SSH access control
 Deployed NAT/PAT and FTP backup server to enable secure internet access and data protection
-
+<h6>
 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eng-Ahmed-Kamel&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-Ahmed-Kamel&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+</h6>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eng-Ahmed-Kamel&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
