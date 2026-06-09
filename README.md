@@ -16,7 +16,8 @@
 💬 Ask me about Linux, Docker, Kubernetes, Terraform, Ansible, Jenkins, AWS, Bash Scripting
 📫 Reach me at Ahmed.ozi2001@gmail.com
 ⚡ Passionate about DevOps methodologies, system administration, and cloud-native technologies
-🤝 Connect With Me
+===================================
+#🤝 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/eng--ahmed-kamel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -107,39 +108,8 @@ Designed a multi-department enterprise network using VLAN segmentation and Route
 Implemented OSPF dynamic routing and HSRP gateway redundancy
 Configured centralized AAA authentication (TACACS+) with SSH access control
 Deployed NAT/PAT and FTP backup server to enable secure internet access and data protection
-💼 Experience
-DevOps Trainee — Digital Egypt Pioneers Initiative (MCIT)
-May 2024 – November 2024
-Completed intensive training in Linux system administration, networking, cloud computing, Docker, Ansible, Git, and Jenkins
-Built and deployed a web application with a CI/CD pipeline, implementing containerization and automated deployment practices
-Python Development Intern — Samsung Innovation Campus
-July 2023 – September 2023
-Completed a 3-month internship program focused on Python programming and software development fundamentals
-Developed multiple applications, including a social media platform, banking system, and online store, as practical projects
-Applied structured programming, problem-solving, and debugging techniques to build functional software solutions
-🎓 Education
-Professional Training Program (9 Months) — Information Technology Institute (ITI - Intake 46)
-October 2025 – August 2026
-Bachelor's of Communication and Electronics Engineering — Faculty of Engineering, Alexandria University
-July 2020 – July 2025
-Thesis: Advanced Driving Assistant System (ADAS) Car with 10 features applied to embedded systems, IoT, and computer vision
-Grade: A | CGPA: 3.28
-🌟 Extracurricular Activities
-IEEE Alexandria Student Branch — Head of Nomination Committee & Treasurer
-October 2022 – November 2025
-Leadership: Directed high-board elections, ensuring eligibility and competency for branch leadership
-Financial Management: Managed 40k+ EGP budget and secured 2.5k EGP for the inaugural "Alextreme" contest
-Technical Impact: Orchestrated 10+ technical workshops/seminars (DevOps, IC-Design, Embedded) for 400+ students
-Youth Outreach: Led "Protons," a 3-month robotics program for 100+ participants
-University Center Career Development (UCCD)
-October 2023 – July 2025
-Scale: Coordinated Job Fair 2024, 2025 for 10,000+ attendees at the Faculty of Engineering
-Operations: Supervised technical workshops and offline event logistics under UCCD supervision
-🗣️ Languages
-Arabic: Native
-English: B2
-German: A1
-📊 GitHub Stats
+
+GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eng-Ahmed-Kamel&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-Ahmed-Kamel&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
