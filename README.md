@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ahmed+Kamel+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+%26+Infrastructure+Enthusiast+%E2%98%81%EF%B8%8F;ITI+Trainee+%7C+DevOps+Track+%F0%9F%8E%93;Based+in+Cairo%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
 <br/>
 <h3>A passionate DevOps Engineer from Cairo, Egypt</h3>
-<h4>🎓 ITI Trainee &nbsp;|&nbsp; DevOps Track &nbsp;|&nbsp; Open Source Department</h4>
+<h4>🎓 ITI Trainee &nbsp;|&nbsp; DevOps Track &nbsp;|&nbsp; System_administration Department</h4>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
