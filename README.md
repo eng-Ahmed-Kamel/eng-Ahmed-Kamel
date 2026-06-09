@@ -87,9 +87,6 @@
         <a href="https://github.com/eng-Ahmed-Kamel/AWS-3-Tier-Architecture-wtih-DevOps-Automation-main">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live%20Demo-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Live Demo"/>
-        </a>
       </p>
       <p><strong>Infrastructure:</strong> AWS VPC, EC2, ASG, ALB, Route53, NAT Gateway</p>
       <p><strong>Tools:</strong> Terraform, Ansible, Docker, Nginx, CloudWatch</p>
