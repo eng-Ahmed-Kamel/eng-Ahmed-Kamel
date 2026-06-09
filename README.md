@@ -152,7 +152,7 @@
     <td width="50%" valign="top" colspan="2">
       <h3>🌐 Software Company Network Architecture</h3>
       <p>
-        href="https://drive.google.com/drive/folders/1Wjn1FofZ4sfleTvZqdh1HfWwkxuGeTpN">
+       <a href="https://drive.google.com/drive/folders/1Wjn1FofZ4sfleTvZqdh1HfWwkxuGeTpN">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
       </p>
