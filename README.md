@@ -9,7 +9,7 @@
 </div>
 <br/>
 <h5>🧑‍💻 About Me</h5>
-🌱 Currently training at ITI (Information Technology Institute) — Open Source Dept., DevOps Track
+🌱 Currently training at ITI (Information Technology Institute) — System Admin & DevOps Track
 🎓 Bachelor's in Communication & Electronics Engineering, Alexandria University (CGPA: 3.28)
 🏆 Red Hat Certified System Administrator (RHCSA) | AWS Certified Cloud Practitioner | Huawei Certified Cloud Developer Associate
 💬 Ask me about Linux, Docker, Kubernetes, Terraform, Ansible, Jenkins, AWS, Bash Scripting
