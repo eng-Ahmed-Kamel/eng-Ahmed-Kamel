@@ -62,7 +62,7 @@
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows Server"/>
   <img src="https://skillicons.dev/icons?i=vmware" height="40" alt="VMware vSphere"/>
 </p>
-🌐 Web & Server Technologies
+ 🌐 Web & Server Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>
   <img src="https://skillicons.dev/icons?i=apache" height="40" alt="Apache"/>
@@ -72,13 +72,13 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=oracle" height="40" alt="Oracle"/>
 </p>
-📊 Monitoring & Networking
+ 📊 Monitoring & Networking
 <p align="left">
   <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus"/>
   <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana"/>
   <img src="https://skillicons.dev/icons?i=cloudwatch" height="40" alt="CloudWatch"/>
 </p>
-📂 Featured Projects
+##📂 Featured Projects
 
 ## 🚀 End-to-End DevSecOps E-Commerce Platform
 
