@@ -82,24 +82,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 End-to-End DevSecOps E-Commerce Platform</h3>
-      <p>
-        <a href="https://github.com/eng-Ahmed-Kamel/ecommerce-devsecops-platform-">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
-        </a>
-      </p>
-      <p><strong>Technologies:</strong> AWS, Terraform, Docker, Kubernetes, Helm, Jenkins, ArgoCD, Ansible, Prometheus, Grafana</p>
-      <ul>
-        <li>Built a complete end-to-end DevSecOps CI/CD pipeline for a microservices e-commerce application.</li>
-        <li>Provisioned AWS infrastructure using Terraform and automated server configuration with Ansible.</li>
-        <li>Containerized applications with Docker and deployed them on Kubernetes (EKS/K3s).</li>
-        <li>Implemented GitOps deployment using ArgoCD and CI/CD automation with Jenkins.</li>
-        <li>Managed Kubernetes applications using Helm charts.</li>
-        <li>Integrated Prometheus and Grafana for monitoring, alerting, and observability.</li>
-      </ul>
-    </td>
-
-    <td width="50%" valign="top">
       <h3>☁️ Highly Available 3-Tier AWS Architecture</h3>
       <p>
         <a href="https://github.com/eng-Ahmed-Kamel/AWS-3-Tier-Architecture-wtih-DevOps-Automation-main">
@@ -115,9 +97,6 @@
         <li>Infrastructure as Code with Terraform & Ansible</li>
       </ul>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <h3>🐧 Bash User & Group Manager</h3>
       <p>
@@ -133,7 +112,8 @@
         <li>Built with Bash & whiptail for efficiency</li>
       </ul>
     </td>
-
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🖥️ VMware vSphere Infrastructure</h3>
       <p>
@@ -149,13 +129,10 @@
         <li>Zero-downtime failover implementation</li>
       </ul>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <h3>🪟 Windows Server AD Infrastructure</h3>
       <p>
-        <a href="https://drive.google.com/file/d/1Dxu4Ei6IkqW3M9gRkzfIRRX0F1JIOn1U/view">
+         <a href="https://drive.google.com/file/d/1Dxu4Ei6IkqW3M9gRkzfIRRX0F1JIOn1U/view">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
       </p>
@@ -167,11 +144,12 @@
         <li>WDS/PXE boot deployment for 50+ machines</li>
       </ul>
     </td>
-
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
       <h3>🌐 Software Company Network Architecture</h3>
       <p>
-        <a href="https://drive.google.com/drive/folders/1Wjn1FofZ4sfleTvZqdh1HfWwkxuGeTpN">
+       <a href="https://drive.google.com/drive/folders/1Wjn1FofZ4sfleTvZqdh1HfWwkxuGeTpN">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
       </p>
