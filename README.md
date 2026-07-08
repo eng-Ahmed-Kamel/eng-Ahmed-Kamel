@@ -81,6 +81,33 @@
 📂 Featured Projects
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🚀 End-to-End DevSecOps E-Commerce Platform</h3>
+      <p>
+        <a href="https://github.com/eng-Ahmed-Kamel/ecommerce-devsecops-platform-">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </p>
+
+      <p><strong>Technologies:</strong> AWS, Terraform, Docker, Kubernetes (EKS/K3s), Helm, Jenkins, ArgoCD, Ansible, Prometheus, Grafana</p>
+
+      <ul>
+        <li>Built an end-to-end DevSecOps pipeline for a microservices e-commerce application.</li>
+        <li>Provisioned AWS infrastructure using Terraform.</li>
+        <li>Automated server configuration with Ansible.</li>
+        <li>Containerized applications with Docker and deployed them to Kubernetes.</li>
+        <li>Implemented CI/CD using Jenkins and GitOps using ArgoCD.</li>
+        <li>Managed deployments with Helm charts.</li>
+        <li>Integrated Prometheus & Grafana for monitoring and observability.</li>
+      </ul>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+<table>
+  <tr>
     <td width="50%" valign="top">
       <h3>☁️ Highly Available 3-Tier AWS Architecture</h3>
       <p>
