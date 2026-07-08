@@ -79,30 +79,20 @@
   <img src="https://skillicons.dev/icons?i=cloudwatch" height="40" alt="CloudWatch"/>
 </p>
 📂 Featured Projects
+
+## 🚀 End-to-End DevSecOps E-Commerce Platform
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eng-Ahmed-Kamel/ecommerce-devsecops-platform-)
+
+**Technologies:** AWS • Terraform • Docker • Kubernetes • Helm • Jenkins • ArgoCD • Ansible • Prometheus • Grafana
+
+- Built an end-to-end DevSecOps pipeline for a microservices e-commerce application.
+- Provisioned AWS infrastructure using Terraform.
+- Automated server configuration with Ansible.
+- Containerized applications with Docker and deployed them to Kubernetes.
+- Implemented CI/CD using Jenkins and GitOps using ArgoCD.
+- Integrated Prometheus & Grafana for monitoring.
 <table>
-  <tr>
-  <td width="50%" valign="top">
-    <h3>🚀 End-to-End DevSecOps E-Commerce Platform</h3>
-
-    <p>
-      <a href="https://github.com/eng-Ahmed-Kamel/ecommerce-devsecops-platform-">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
-      </a>
-    </p>
-
-    <b>Technologies:</b> AWS, Terraform, Docker, Kubernetes (EKS/K3s), Helm, Jenkins, ArgoCD, Ansible, Prometheus, Grafana
-
-    <br><br>
-
-    • Built an end-to-end DevSecOps pipeline for a microservices e-commerce application.<br>
-    • Provisioned AWS infrastructure using Terraform.<br>
-    • Automated server configuration with Ansible.<br>
-    • Containerized applications with Docker and deployed them to Kubernetes.<br>
-    • Implemented CI/CD using Jenkins and GitOps using ArgoCD.<br>
-    • Managed deployments with Helm charts.<br>
-    • Integrated Prometheus & Grafana for monitoring and observability.
-  </td>
-
   <td width="50%" valign="top">
     <!-- Your AWS project -->
   </td>
@@ -110,6 +100,7 @@
 
   <tr>
     <td width="50%" valign="top">
+      
 <table>
   <tr>
     <td width="50%" valign="top">
