@@ -78,7 +78,8 @@
   <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana"/>
   <img src="https://skillicons.dev/icons?i=cloudwatch" height="40" alt="CloudWatch"/>
 </p>
-##📂 Featured Projects
+
+## 📂 Featured Projects
 
 ## 🚀 End-to-End DevSecOps E-Commerce Platform
 
