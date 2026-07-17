@@ -181,27 +181,7 @@
     </td>
   </tr>
 </table>
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eng-Ahmed-Kamel&show_icons=true&theme=github_dark&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-Ahmed-Kamel&layout=compact&theme=github_dark" />
-</p>
-
 <p align="center">
   <em>"Automate everything. Monitor everything. Improve continuously."</em>
 </p>
-<!--
-**eng-Ahmed-Kamel/eng-Ahmed-Kamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
