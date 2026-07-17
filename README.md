@@ -186,7 +186,7 @@
     </td>
   </tr>
 </table>
-<h3 align="center">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eng-Ahmed-Kamel&theme=github-dark&hide_border=true" alt="GitHub Streak" />
