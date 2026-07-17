@@ -93,11 +93,6 @@
 - Containerized applications with Docker and deployed them to Kubernetes.
 - Implemented CI/CD using Jenkins and GitOps using ArgoCD.
 - Integrated Prometheus & Grafana for monitoring.
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ Highly Available 3-Tier AWS Architecture</h3>
-</table>
   <tr>
     <td width="50%" valign="top">
       <h3>☁️ Highly Available 3-Tier AWS Architecture</h3>
