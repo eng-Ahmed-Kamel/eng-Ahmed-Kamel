@@ -94,15 +94,10 @@
 - Implemented CI/CD using Jenkins and GitOps using ArgoCD.
 - Integrated Prometheus & Grafana for monitoring.
 <table>
-  <td width="50%" valign="top">
-    <!-- Your AWS project -->
-  </td>
-</tr>
-
   <tr>
     <td width="50%" valign="top">
-      
-<table>
+      <h3>☁️ Highly Available 3-Tier AWS Architecture</h3>
+</table>
   <tr>
     <td width="50%" valign="top">
       <h3>☁️ Highly Available 3-Tier AWS Architecture</h3>
@@ -189,7 +184,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eng-Ahmed-Kamel&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eng-Ahmed-Kamel&show_icons=true&theme=github_dark&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-Ahmed-Kamel&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
