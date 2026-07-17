@@ -186,12 +186,15 @@
     </td>
   </tr>
 </table>
-<h7>
-📊 GitHub Stats</h7>
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eng-Ahmed-Kamel&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=eng-Ahmed-Kamel&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center"><em>"Automate everything. Monitor everything. Improve continuously."</em></p>
+
+<p align="center">
+  <em>"Automate everything. Monitor everything. Improve continuously."</em>
+</p>
 <!--
 **eng-Ahmed-Kamel/eng-Ahmed-Kamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
